@@ -2,7 +2,7 @@ OLáááá! Eu sou Ruth 👋
 
 
 - 🔭 Eu sou estudante de Sistemas para Internet e estagiária em desenvolvimento de Software
-- 🌱 Estudando Httml | Css | JavaScript | Java
+- 🌱 Estudando Html | Css | JavaScript
 
 <div>
   <a href="https://github.com/ruthdevgpwr">
