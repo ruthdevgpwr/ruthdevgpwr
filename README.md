@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu sou estudante de Sistemas para Internet e estagiária em desenvolvimento de Software
--  <img height="18em" src="https://user-images.githubusercontent.com/80555245/139195301-2940ffb7-418a-4cfe-b32d-378251ebb043.png" /> Estudando Html | Css | JavaScript
+-  <img height="18em" src="https://user-images.githubusercontent.com/80555245/139195301-2940ffb7-418a-4cfe-b32d-378251ebb043.png" /> Estudando Html | Css | JavaScript | Reac.JS | Java | SpringBoot
 
 <div>
    
