@@ -1,6 +1,6 @@
  <img height="100em" src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" /> Olá, meu nome é Ruth.
 
-- 🔭 Eu sou estudante de Sistemas para Internet e Desenvolvedora Frontend -  <img height="18em" src="https://user-images.githubusercontent.com/80555245/139195301-2940ffb7-418a-4cfe-b32d-378251ebb043.png" /> Tenho experiência em: Reac.JS | JavaScript | SASS-SCSS | Styled-Components | HTML | CSS
+- 🔭 Eu sou estudante de Sistemas para Internet e Desenvolvedora Frontend -  <img height="18em" src="https://user-images.githubusercontent.com/80555245/139195301-2940ffb7-418a-4cfe-b32d-378251ebb043.png" /> Tenho experiência em: Reac.JS | JavaScript | TypeScript |SASS-SCSS | Styled-Components | HTML | CSS
 
 <div>
    
