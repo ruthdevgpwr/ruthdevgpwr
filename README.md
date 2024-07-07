@@ -1,6 +1,20 @@
  <img height="100em" src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" /> Olá, meu nome é Ruth.
 
-🔭 Eu sou estudante de Sistemas para Internet e sou Desenvolvedora Frontend -  <img height="18em" src="https://user-images.githubusercontent.com/80555245/139195301-2940ffb7-418a-4cfe-b32d-378251ebb043.png" /> Tenho experiência em: Reac.JS | JavaScript | TypeScript |SASS-SCSS | Styled-Components | HTML | CSS. 
+🔭 Sou uma profissional apaixonada por tecnologia e estou em constante desenvolvimento de minhas habilidades em desenvolvimento de software. Tenho experiência sólida em:
+
+Desenvolvimento web frontend com HTML, CSS, JavaScript e TypeScript, incluindo frameworks como ReactJS e bibliotecas como Material-UI.
+
+Implementação de CSS-in-JS usando SASS/SCSS e Styled-Components.
+
+Integração com API's utilizando Axios e Fetch.
+
+Domínio de ferramentas de design como Figma e metodologias ágeis como Scrum e Kanban.
+
+Proficiência em controle de versão com Git e Gitflow.
+
+Fiz transição de carreira para a área de tecnologia, aumentando meu entusiasmo e compromisso com este setor dinâmico. Meu background anterior como advogada fortaleceu minhas habilidades de resiliência, proatividade, organização e comunicação eficaz.
+
+Estou buscando novos desafios e oportunidades de crescimento como desenvolvedora de software, onde posso aplicar tanto minhas habilidades técnicas quanto minhas soft skills, incluindo excelente comunicação interpessoal, colaboração em equipe, autodesenvolvimento contínuo e capacidade de resolver problemas de forma independente.
 
 
 <div>
