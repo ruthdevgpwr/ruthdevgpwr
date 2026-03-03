@@ -1,20 +1,14 @@
  <img height="100em" src="https://media.giphy.com/media/TRUJ0BJOxOmru/giphy.gif" /> Olá, meu nome é Ruth.
 
-🔭 Sou uma profissional apaixonada por tecnologia e estou em constante desenvolvimento de minhas habilidades em desenvolvimento de software. Tenho experiência sólida em:
+Sou profissional de tecnologia com experiência em desenvolvimento front-end e back-end e atualmente atuando com foco em Quality Assurance.
 
-Desenvolvimento web frontend com HTML, CSS, JavaScript e TypeScript, incluindo frameworks como ReactJS e bibliotecas como Material-UI.
+Atuei em consultoria participando de projetos para clientes como Instituto Ayrton Senna e iFood, contribuindo no desenvolvimento de features, integrações com APIs e validações de comportamento do sistema em ambientes dinâmicos e colaborativos.
 
-Implementação de CSS-in-JS usando SASS/SCSS e Styled-Components.
+Durante o desenvolvimento, sempre mantive um olhar atento à qualidade das entregas, realizando testes exploratórios nas funcionalidades implementadas para identificar inconsistências e possíveis cenários de erro antes da entrega. Essa vivência fortaleceu minha transição para QA, unindo visão técnica, pensamento crítico e responsabilidade sobre a experiência final do usuário.
 
-Integração com API's utilizando Axios e Fetch.
+Minha base inclui HTML, CSS, JavaScript, TypeScript, ReactJS, integração com APIs (Axios/Fetch), Git (Gitflow), metodologias ágeis como Scrum e Kanban, além de boas práticas de Clean Code.
 
-Domínio de ferramentas de design como Figma e metodologias ágeis como Scrum e Kanban.
-
-Proficiência em controle de versão com Git e Gitflow.
-
-Fiz transição de carreira para a área de tecnologia, aumentando meu entusiasmo e compromisso com este setor dinâmico. Meu background anterior como advogada fortaleceu minhas habilidades de resiliência, proatividade, organização e comunicação eficaz.
-
-Estou buscando novos desafios e oportunidades de crescimento como desenvolvedora de software, onde posso aplicar tanto minhas habilidades técnicas quanto minhas soft skills, incluindo excelente comunicação interpessoal, colaboração em equipe, autodesenvolvimento contínuo e capacidade de resolver problemas de forma independente.
+Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto de entender como as coisas funcionam, questionar, testar limites e buscar melhorias contínuas. Hoje, direciono essa energia para a área de Qualidade de Software, com foco em estratégia de testes, automação e melhoria de processos, com o compromisso de elevar o padrão de qualidade em cada projeto e em cada time do qual eu fizer parte.
 
 
 <div>
