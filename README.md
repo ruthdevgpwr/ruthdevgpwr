@@ -2,11 +2,11 @@
 
 Sou profissional de tecnologia com experiência em desenvolvimento front-end e back-end e atualmente atuando com foco em Quality Assurance.
 
-Atuei em consultoria participando de projetos para clientes como Instituto Ayrton Senna e iFood, contribuindo no desenvolvimento de features, integrações com APIs e validações de comportamento do sistema em ambientes dinâmicos e colaborativos.
+Participei de projetos para clientes como Instituto Ayrton Senna e iFood, contribuindo no desenvolvimento de features, integrações com APIs e validações de comportamento do sistema em ambientes dinâmicos e colaborativos.
 
 Durante o desenvolvimento, sempre mantive um olhar atento à qualidade das entregas, realizando testes exploratórios nas funcionalidades implementadas para identificar inconsistências e possíveis cenários de erro antes da entrega. Essa vivência fortaleceu minha transição para QA, unindo visão técnica, pensamento crítico e responsabilidade sobre a experiência final do usuário.
 
-Minha base inclui HTML, CSS, JavaScript, TypeScript, ReactJS, integração com APIs (Axios/Fetch), Git (Gitflow), metodologias ágeis como Scrum e Kanban, além de boas práticas de Clean Code.
+Minha base inclui HTML, CSS, JavaScript/TypeScript, ReactJS, integração com APIs (Axios/Fetch), Git (Gitflow), metodologias ágeis como Scrum e Kanban, além de boas práticas de Clean Code.
 
 Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto de entender como as coisas funcionam, questionar, testar limites e buscar melhorias contínuas. Hoje, direciono essa energia para a área de Qualidade de Software, com foco em estratégia de testes, automação e melhoria de processos, com o compromisso de elevar o padrão de qualidade em cada projeto e em cada time do qual eu fizer parte.
 
