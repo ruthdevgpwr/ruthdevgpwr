@@ -34,27 +34,17 @@ Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto
 
 ### 💻 Desenvolvimento
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-3178C6?style=flat&logo=css3&logoColor=white" />
-
-### 🧪 QA & Testes
-
-<img src="https://img.shields.io/badge/Testes%20Explorat%C3%B3rios-333?style=flat" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-333?style=flat" />
-<img src="https://img.shields.io/badge/Gherkin|BDD-333?style=flat" />
-<img src="https://img.shields.io/badge/Cypress-20040?style=flat" />
-
-### ⚙️ Processo & Versionamento
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Gitflow-333?style=flat" />
-<img src="https://img.shields.io/badge/Scrum-333?style=flat" />
-<img src="https://img.shields.io/badge/Kanban-333?style=flat" />
+<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" alt="HTML" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" alt="CSS" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" alt="React" style="vertical-align:middle; margin-top:1px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="28" alt="Kotlin" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="26" alt="Postman" style="vertical-align:middle; margin-top:1px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28" alt="Docker" style="vertical-align:middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="28" alt="Docker" style="vertical-align:middle; />
+</div>
 
 ---
 
@@ -74,5 +64,11 @@ Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto
 
 </details>
 
-  
+<br />
+<br />
+
+<p>
+  <img align= "left" alt="Github Stats height="200" style= "padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Larissakich/>
+</p>
+
  </div>
