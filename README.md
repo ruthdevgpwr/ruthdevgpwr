@@ -43,7 +43,7 @@ Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="28" alt="Kotlin" style="vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="26" alt="Postman" style="vertical-align:middle; margin-top:1px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28" alt="Docker" style="vertical-align:middle;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="28" alt="Docker" style="vertical-align:middle; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="28" alt="Docker" style="vertical-align:middle;" />
 </div>
 
 ---
