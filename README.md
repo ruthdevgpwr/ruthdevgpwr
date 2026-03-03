@@ -64,11 +64,5 @@ Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto
 
 </details>
 
-<br />
-<br />
-
-<p>
-  <img align= "left" alt="Github Stats height="200" style= "padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Larissakich/>
-</p>
 
  </div>
