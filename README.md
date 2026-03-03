@@ -32,8 +32,6 @@ Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto
 
 ## 🧰 Tech Stack
 
-### 💻 Desenvolvimento
-
 <div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" alt="HTML" style="vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" alt="CSS" style="vertical-align:middle;" />
