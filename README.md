@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## 🚀 Sobre mim
 
 Sou profissional de tecnologia com experiência em desenvolvimento front-end e back-end e atualmente atuando com foco em **Quality Assurance**.
@@ -27,8 +25,6 @@ Durante o desenvolvimento, realizava testes exploratórios nas funcionalidades i
 Minha base inclui **HTML, CSS, JavaScript, TypeScript, ReactJS, Postman, Postgress, Docker, integração com APIs (Axios/Fetch), Git (Gitflow)**, metodologias ágeis como **Scrum e Kanban**, além de boas práticas de **Clean Code**.
 
 Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto de entender como as coisas funcionam, questionar, testar limites e buscar melhorias contínuas. Hoje, direciono essa energia para a área de Qualidade de Software, com foco em estratégia de testes, automação e melhoria de processos, com o compromisso de elevar o padrão de qualidade em cada projeto e em cada time do qual eu fizer parte.
-
----
 
 ## 🧰 Tech Stack
 
@@ -43,8 +39,6 @@ Sou movida pela paixão por tecnologia e pelo desejo constante de evoluir. Gosto
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28" alt="Docker" style="vertical-align:middle;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="28" alt="Docker" style="vertical-align:middle;" />
 </div>
-
----
 
 ## 🧠 Competências principais
 
