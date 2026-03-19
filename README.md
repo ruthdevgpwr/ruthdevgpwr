@@ -18,7 +18,7 @@
 
 Sou profissional de tecnologia com experiência em desenvolvimento front-end e back-end e atualmente atuando com foco em **Quality Assurance**.
 
-Atuei em consultoria participando de projetos para clientes como Instituto Ayrton Senna e iFood, contribuindo no desenvolvimento de features, integrações com APIs e validações de comportamento do sistema.
+Atuei como desenvolvedora de software de projetos para clientes como Instituto Ayrton Senna e iFood, contribuindo no desenvolvimento de features, integrações com APIs e validações de comportamento do sistema.
 
 Durante o desenvolvimento, realizava testes exploratórios nas funcionalidades implementadas, identificando inconsistências e possíveis cenários de erro antes da entrega. Essa vivência fortaleceu minha transição para QA, unindo visão técnica, pensamento crítico e responsabilidade sobre a experiência final do usuário.
 
